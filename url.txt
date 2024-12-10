@@ -1,2 +1,37 @@
-更新
-三立綜合台,http://bstvcdn.ballbar.net/sanlizhonghe/playlist-15.m3u8a?t=1733847809&token=98e5b2c659a601d81c0fb63de06372d1
+开始更新
+HOY 77,https://ch77-live-stream.hoy.tv/ch77/index-fhd-2-v-fhd.m3u8
+HOY 76,https://ch76-live-stream.hoy.tv/ch76/va2-index-3-v-fhd.m3u8
+翡翠台,http://bstvcdn.ballbar.net/jade_twn/playlist-15.m3u8a?t=1733848402&token=facf3c7d6116365ec91d6c6e5870a633
+HOY 78,http://bstvcdn.ballbar.net/hoycaijing_twn/playlist-15.m3u8a?t=1733848403&token=f21daa61d418e08c05e1ad50fa42329e
+美亞電影台,http://bstvcdn.ballbar.net/meiyamovie_twn/playlist-15.m3u8a?t=1733848403&token=f21daa61d418e08c05e1ad50fa42329e
+RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
+RTHK31,http://bstvcdn.ballbar.net/rhk31_twn/playlist-15.m3u8a?t=1733848406&token=bb863270825a4393bb795ed6c9a8caeb
+RTHK33,https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e
+thrill,http://99754106633f94d350db34d548d6091a.everydaytv.top/live/iptv/e8d00a162a5b2fb8b60aa3100b444a3c/playlist.m3u8
+東森LIVE,https://www.youtube.com/embed/V1p33hqPrUk?si=U_vzEoMvBePxMQRY
+東森電影,http://bstvcdn.ballbar.net/ettvmovie/playlist-15.m3u8a?t=1733848436&token=0e1b6f3902d124985c6014a643b5a068
+ELTA體育1台,http://bstvcdn.ballbar.net/eltasport1_twn/playlist-15.m3u8a?t=1733848445&token=6c3b850a3a6a166c90deb2707dbdadc5
+東森新聞,http://bstvcdn.ballbar.net/ettvnews/playlist-15.m3u8a?t=1733848446&token=c02e06f5810daf11760ee1416fe2fdb3
+東森洋片,http://bstvcdn.ballbar.net/ettvwestern/playlist-15.m3u8a?t=1733848447&token=92bd2979e06860ee495837a6a00e97bc
+東森綜合,http://bstvcdn.ballbar.net/ettvzhonghe/playlist-15.m3u8a?t=1733848447&token=92bd2979e06860ee495837a6a00e97bc
+EYE TV 旅遊,http://bstvcdn.ballbar.net/eyetvtravel_twn/playlist-15.m3u8a?t=1733848448&token=6713d624db71d96be2ea0ab6cf94aed3
+EYE TV 戲劇,http://bstvcdn.ballbar.net/eyetvxiju_twn/playlist-15.m3u8a?t=1733848450&token=ed1b2a1d1acc95a304bb45f828152c12
+HBO HD,http://bstvcdn.ballbar.net/hbohd_twn/playlist-15.m3u8a?t=1733848450&token=ed1b2a1d1acc95a304bb45f828152c12
+天映頻道,http://bstvcdn.ballbar.net/Celestial/playlist-15.m3u8a?t=1733848453&token=71f88bc008442a2f36d7a89aa6394534
+緯來電影,http://bstvcdn.ballbar.net/videolandmovie/playlist-15.m3u8a?t=1733848453&token=71f88bc008442a2f36d7a89aa6394534
+年代新聞,http://bstvcdn.ballbar.net/niandainews_twn/playlist-15.m3u8a?t=1733848453&token=71f88bc008442a2f36d7a89aa6394534
+緯來體育,http://bstvcdn.ballbar.net/videolandsport/playlist-15.m3u8a?t=1733848455&token=e313f08f9f7be4e027793f1dbf9334dc
+緯來日本,http://bstvcdn.ballbar.net/videolandjapan/playlist-15.m3u8a?t=1733848455&token=e313f08f9f7be4e027793f1dbf9334dc
+緯來戲劇,http://bstvcdn.ballbar.net/videolandtv/playlist-15.m3u8a?t=1733848458&token=e28a6f3237eb369f79a4d1f6e3062cb6
+緯來育樂,http://bstvcdn.ballbar.net/videolandmax/playlist-15.m3u8a?t=1733848459&token=06909ddb6f4c36f8eb0e028b7de989a3
+緯來綜合,http://bstvcdn.ballbar.net/videolandzong/playlist-15.m3u8a?t=1733848459&token=06909ddb6f4c36f8eb0e028b7de989a3
+東森電影,http://bstvcdn.ballbar.net/ettvmovie/playlist-15.m3u8a?t=1733848461&token=4f11c4d8901ffb9c768a8862473d303b
+三立iNEWS,https://www.youtube.com/embed/pF507BLtbqU?si=bWk_e2X35r1jXMNn
+壹新聞,http://bstvcdn.ballbar.net/yinews/playlist-15.m3u8a?t=1733848463&token=0858221b4a0cf66777f6d28b3bdb02ac
+東森洋片,http://bstvcdn.ballbar.net/ettvwestern/playlist-15.m3u8a?t=1733848463&token=0858221b4a0cf66777f6d28b3bdb02ac
+三立LIVE,https://www.youtube.com/embed/FoBfXvlOR6I?si=-EuRysooDT_dC2oQ
+中天新聞,http://bstvcdn.ballbar.net/ctinews/playlist-15.m3u8a?t=1733848465&token=754bf873e24c07adfc2d59cc157f3e04
+三立LIVE+,https://www.youtube.com/embed/oZdzzvxTfUY?si=eDEqXG50rhFdQLs-
+三立台灣台,http://bstvcdn.ballbar.net/sanlitaiwan/playlist-15.m3u8a?t=1733848469&token=9023da38dc66913f841aac09e65a242e
+三立戲劇台,http://bstvcdn.ballbar.net/sanlixiju_twn/playlist-15.m3u8a?t=1733848469&token=9023da38dc66913f841aac09e65a242e
+三立綜合台,http://bstvcdn.ballbar.net/sanlizhonghe/playlist-15.m3u8a?t=1733848470&token=a90ce81c08dfe14c27a08d1fef696ffc
