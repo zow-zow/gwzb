@@ -108,8 +108,7 @@ def process_id(id):
                         print(f"输出结果: {id},{final_url}")
                         
                         # 写入到txt文件
-                        with open('url.txt', 'w') as f:
-                            f.write(f"更新\n")
+
 
                         with open('url.txt', 'a') as f:  # 使用'a'模式追加内容
                             f.write(f"{id},{final_url}\n")
@@ -128,6 +127,9 @@ ids = ['翡翠台','HOY 76','HOY 77','HOY 78','美亞電影台','RTHK31','RTHK32
 
 ]  # 替换为实际需要的多个ID
 
+
+with open('url.txt', 'w') as f:
+    f.write(f"开始更新\n")
 # 多线程处理
 if __name__ == "__main__":
     with ThreadPoolExecutor(max_workers=5) as executor:  # 设置并发线程数
