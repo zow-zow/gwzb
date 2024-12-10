@@ -1,8 +1,7 @@
-name: 360
+name: gwzb
 
 on:
   schedule:
-    #- cron: '30 19,22,1,4,7,10,13,16 * * *' # 每天的第3小时30分触发一次
     - cron: '00 3 * * *'
   workflow_dispatch:
   # push:
@@ -23,12 +22,11 @@ jobs:
           python-version: 3.x
 
       - name: Install dependencies
-        run: pip install selenium requests futures eventlet
+        run: pip install selenium requests futures eventlet beautifulsoup4
 
       - name: Run iptv
         run: python ${{ github.workspace }}/gw.py
 
-        
       - name: 提交
         run: |
           git config --local user.email "191049659@qq.com"
