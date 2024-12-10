@@ -1,1 +1,2 @@
-http://bstvcdn.ballbar.net/yinews/playlist-15.m3u8a?t=1733842917&token=0044447c4cec680fc2c5de6455dbe7e8
+更新
+三立綜合台,http://bstvcdn.ballbar.net/sanlizhonghe/playlist-15.m3u8a?t=1733847809&token=98e5b2c659a601d81c0fb63de06372d1
