@@ -2,7 +2,7 @@ name: gwzb
 
 on:
   schedule:
-    - cron: '00 3 * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
   # push:
   #   branches:
