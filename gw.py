@@ -3,6 +3,16 @@ from bs4 import BeautifulSoup
 import re
 import base64
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import time
+import pytz
+from datetime import datetime 
+
+# 设置时区为中国/上海（北京时间）
+timezone = pytz.timezone('Asia/Shanghai')
+
+# 获取当前时间并转换为北京时间
+localtime = datetime.now(timezone)  # 直接使用timezone获取当前时间
+beijing_time = localtime.strftime("%Y-%m-%d %H:%M:%S")  # 格式化时间
 
 def de(encoded_str):
     replacements = {
@@ -129,7 +139,8 @@ ids = ['翡翠台','HOY 78','美亞電影台','RTHK31','東森超視','東森電
 
 
 with open('url.txt', 'w') as f:
-    f.write(f"开始更新\n")
+    f.write(f"开始更新 {beijing_time}\n")
+    
 # 多线程处理
 if __name__ == "__main__":
     with ThreadPoolExecutor(max_workers=5) as executor:  # 设置并发线程数
