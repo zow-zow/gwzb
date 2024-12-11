@@ -1,7 +1,30 @@
-开始更新 2024-12-11 22:21:34
-HOY 78,http://bstvcdn.ballbar.net/hoycaijing_twn/playlist-15.m3u8a?t=1733926899&token=f7b8d0f538c5dab5012d7984b6780b1d
-翡翠台,http://bstvcdn.ballbar.net/jade_twn/playlist-15.m3u8a?t=1733926900&token=05de4492c865cba797e72aa385e3515a
-美亞電影台,http://bstvcdn.ballbar.net/meiyamovie_twn/playlist-15.m3u8a?t=1733926904&token=626b9c9463de9891c35c6db8c7697d92
-RTHK31,http://bstvcdn.ballbar.net/rhk31_twn/playlist-15.m3u8a?t=1733926904&token=626b9c9463de9891c35c6db8c7697d92
-東森超視,http://bstvcdn.ballbar.net/ettvsuper/playlist-15.m3u8a?t=1733926909&token=c92be371bfa4f1078a35e51e1020be4f
-東森電影,http://bstvcdn.ballbar.net/ettvmovie/playlist-15.m3u8a?t=1733926910&token=7a4767e4227b4c198650fcdfdc55c3c0
+开始更新 2024-12-11 23:24:16
+HOY 78,http://bstvcdn.ballbar.net/hoycaijing_twn/playlist-15.m3u8a?t=1733930661&token=667539121cd70826b80d25a0c08a938e
+翡翠台,http://bstvcdn.ballbar.net/jade_twn/playlist-15.m3u8a?t=1733930661&token=667539121cd70826b80d25a0c08a938e
+RTHK31,http://bstvcdn.ballbar.net/rhk31_twn/playlist-15.m3u8a?t=1733930666&token=e73f51f717f1f92d155e9dfc82b66998
+美亞電影台,http://bstvcdn.ballbar.net/meiyamovie_twn/playlist-15.m3u8a?t=1733930667&token=8b311756a271a578e8e3f89916db1662
+東森超視,http://bstvcdn.ballbar.net/ettvsuper/playlist-15.m3u8a?t=1733930671&token=98445aad436b7196722314fe1ba5dd19
+東森電影,http://bstvcdn.ballbar.net/ettvmovie/playlist-15.m3u8a?t=1733930673&token=b17052deb9f2953d1dc72f0a0f28ada9
+東森戲劇,http://bstvcdn.ballbar.net/ettvdrama/playlist-15.m3u8a?t=1733930677&token=a7d057a1c63d0e92eca24e908ad59c4c
+東森新聞,http://bstvcdn.ballbar.net/ettvnews/playlist-15.m3u8a?t=1733930678&token=225d42ed666bba2a23e0cc8c1e781374
+東森綜合,http://bstvcdn.ballbar.net/ettvzhonghe/playlist-15.m3u8a?t=1733930683&token=2f2302dea2693ab7611b15fb9457bbcf
+東森洋片,http://bstvcdn.ballbar.net/ettvwestern/playlist-15.m3u8a?t=1733930683&token=2f2302dea2693ab7611b15fb9457bbcf
+ELTA體育1台,http://bstvcdn.ballbar.net/eltasport1_twn/playlist-15.m3u8a?t=1733930688&token=9d49a5492f1bfa9eb885a886dd89528d
+EYE TV 旅遊,http://bstvcdn.ballbar.net/eyetvtravel_twn/playlist-15.m3u8a?t=1733930690&token=5de5659113c7dec869d218a16b4e48e8
+EYE TV 戲劇,http://bstvcdn.ballbar.net/eyetvxiju_twn/playlist-15.m3u8a?t=1733930693&token=3b6a6fb6213b7d7b1c638fd4e8d9638e
+HBO HD,http://bstvcdn.ballbar.net/hbohd_twn/playlist-15.m3u8a?t=1733930695&token=3833951a7829e75f40c5b2c97079ada3
+年代新聞,http://bstvcdn.ballbar.net/niandainews_twn/playlist-15.m3u8a?t=1733930698&token=e8a98ac32f93a0b3297274e2602132d4
+天映頻道,http://bstvcdn.ballbar.net/Celestial/playlist-15.m3u8a?t=1733930701&token=717e8785e933d64cda554118f5e1f184
+緯來日本,http://bstvcdn.ballbar.net/videolandjapan/playlist-15.m3u8a?t=1733930706&token=41998db101d746e186bdde0d6eba0afa
+緯來電影,http://bstvcdn.ballbar.net/videolandmovie/playlist-15.m3u8a?t=1733930706&token=41998db101d746e186bdde0d6eba0afa
+緯來體育,http://bstvcdn.ballbar.net/videolandsport/playlist-15.m3u8a?t=1733930710&token=b03144c2e4dd7775283a068f0c2278d2
+緯來戲劇,http://bstvcdn.ballbar.net/videolandtv/playlist-15.m3u8a?t=1733930711&token=3fbb21cd9cb34fe9c711579875902f32
+緯來育樂,http://bstvcdn.ballbar.net/videolandmax/playlist-15.m3u8a?t=1733930715&token=17e5d623be2c24d42677795a846daeb7
+緯來綜合,http://bstvcdn.ballbar.net/videolandzong/playlist-15.m3u8a?t=1733930716&token=0072e72890d61888a9e8ef9465e01321
+東森電影,http://bstvcdn.ballbar.net/ettvmovie/playlist-15.m3u8a?t=1733930721&token=40571f67819db651b05984d1204fe1fd
+壹新聞,http://bstvcdn.ballbar.net/yinews/playlist-15.m3u8a?t=1733930721&token=40571f67819db651b05984d1204fe1fd
+東森洋片,http://bstvcdn.ballbar.net/ettvwestern/playlist-15.m3u8a?t=1733930726&token=b33ba0e0eae5edfa8212000da56f1a8e
+中天新聞,http://bstvcdn.ballbar.net/ctinews/playlist-15.m3u8a?t=1733930728&token=e9585bdc867c29e170cd97e089ca3c13
+三立台灣台,http://bstvcdn.ballbar.net/sanlitaiwan/playlist-15.m3u8a?t=1733930731&token=afb313117b7b4b9b20eafcb3bf28edd3
+三立戲劇台,http://bstvcdn.ballbar.net/sanlixiju_twn/playlist-15.m3u8a?t=1733930734&token=b8e848d2cd5aa7f980ad059e7a19229f
+三立綜合台,http://bstvcdn.ballbar.net/sanlizhonghe/playlist-15.m3u8a?t=1733930736&token=b08658b4469e3d352c76ebf6256983d9
