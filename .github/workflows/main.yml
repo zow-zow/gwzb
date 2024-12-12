@@ -24,7 +24,7 @@ jobs:
           python-version: 3.x
 
       - name: Install dependencies
-        run: pip install selenium requests futures eventlet beautifulsoup4 pytz
+        run: pip install selenium requests futures eventlet beautifulsoup4 pytz pycryptodome
 
       - name: Run iptv
         run: python ${{ github.workspace }}/gw.py
