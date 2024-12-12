@@ -80,6 +80,7 @@ def get(url, custom_headers=None, use_headers=True):
 
 # 处理每个ID的函数
 def process_id(id):
+    global encrypted_content
     url = "http://99754106633f94d350db34d548d6091a.everydaytv.top/index.html"
     html = get(url)
 
