@@ -33,7 +33,7 @@ def aes_decrypt(encrypted_text, key):
     return decrypted_text.rstrip(b' ')  # 去除填充字符
 
 # 定义AES密钥
-key = b'0123456789abcdef'  # 密钥必须是16字节长
+key = b'xiaotoubudehaosi'  # 密钥必须是16字节长
 
 # 存储加密后的内容
 encrypted_content = ""
