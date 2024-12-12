@@ -1,15 +1,22 @@
-开始更新 2024-12-12 22:21:26
-美亞電影台,http://bstvcdn.ballbar.net/meiyamovie_twn/playlist-15.m3u8a?t=1734013300&token=9823bc68e3b2e50f91c4cb78aedb2860
-RTHK31,http://bstvcdn.ballbar.net/rhk31_twn/playlist-15.m3u8a?t=1734013300&token=9823bc68e3b2e50f91c4cb78aedb2860
-東森戲劇,http://bstvcdn.ballbar.net/ettvdrama/playlist-15.m3u8a?t=1734013317&token=f06bd84c903396c64867b4cd2156e1d5
-東森新聞,http://bstvcdn.ballbar.net/ettvnews/playlist-15.m3u8a?t=1734013317&token=f06bd84c903396c64867b4cd2156e1d5
-東森綜合,http://bstvcdn.ballbar.net/ettvzhonghe/playlist-15.m3u8a?t=1734013324&token=5c49186d9f1e170ab9d4ea4625d6dc0b
-ELTA體育1台,http://bstvcdn.ballbar.net/eltasport1_twn/playlist-15.m3u8a?t=1734013329&token=2278ef6d37e190be0de270c453739771
-HBO HD,http://bstvcdn.ballbar.net/hbohd_twn/playlist-15.m3u8a?t=1734013338&token=1823e59d377947c659c372aed56c8e81
-年代新聞,http://bstvcdn.ballbar.net/niandainews_twn/playlist-15.m3u8a?t=1734013342&token=2fa18830d4a0f46517eb03e05712a3fd
-天映頻道,http://bstvcdn.ballbar.net/Celestial/playlist-15.m3u8a?t=1734013344&token=d22d1ddbb461abed8bf14e84fa4225e3
-緯來日本,http://bstvcdn.ballbar.net/videolandjapan/playlist-15.m3u8a?t=1734013349&token=73fd2ec0f549ca9a23d1b01f93d1f318
-緯來戲劇,http://bstvcdn.ballbar.net/videolandtv/playlist-15.m3u8a?t=1734013355&token=89ba3a2a57ce59c3097beec2c95a23df
-緯來育樂,http://bstvcdn.ballbar.net/videolandmax/playlist-15.m3u8a?t=1734013359&token=9f71b03cacb8eea36e2167e742f2ffa4
-壹新聞,http://bstvcdn.ballbar.net/yinews/playlist-15.m3u8a?t=1734013364&token=3687090c61a7767b5155d66362fe6c29
-三立戲劇台,http://bstvcdn.ballbar.net/sanlixiju_twn/playlist-15.m3u8a?t=1734013386&token=d71a80ea76ca44afd342c638d4d2857e
+开始更新 2024-12-12 23:24:31
+HOY 78,http://bstvcdn.ballbar.net/hoycaijing_twn/playlist-15.m3u8a?t=1734017075&token=68df7ea52aa900a958e98513f4780dde
+翡翠台,http://bstvcdn.ballbar.net/jade_twn/playlist-15.m3u8a?t=1734017077&token=910b90ea331d893733b7650bd2eff5a4
+美亞電影台,http://bstvcdn.ballbar.net/meiyamovie_twn/playlist-15.m3u8a?t=1734017079&token=e543feb7298decd41beee389ce3fe09f
+RTHK31,http://bstvcdn.ballbar.net/rhk31_twn/playlist-15.m3u8a?t=1734017082&token=6f14052ee7a0463e56fc360ee8d65370
+東森超視,http://bstvcdn.ballbar.net/ettvsuper/playlist-15.m3u8a?t=1734017084&token=62146e5c2eb7e117ea262d3ca71f9a06
+東森電影,http://bstvcdn.ballbar.net/ettvmovie/playlist-15.m3u8a?t=1734017087&token=57ff1d14157bda30458c8975a8d7bfd0
+東森戲劇,http://bstvcdn.ballbar.net/ettvdrama/playlist-15.m3u8a?t=1734017089&token=9ae35183c7e60542ef257941d2c12932
+東森新聞,http://bstvcdn.ballbar.net/ettvnews/playlist-15.m3u8a?t=1734017092&token=0f62f84bd94409017e3811d0c1934710
+東森洋片,http://bstvcdn.ballbar.net/ettvwestern/playlist-15.m3u8a?t=1734017094&token=01cf2a4e4316b399ff4f3616c654e1b2
+ELTA體育1台,http://bstvcdn.ballbar.net/eltasport1_twn/playlist-15.m3u8a?t=1734017099&token=455a951344593b44eec3c8c786f53b65
+東森綜合,http://bstvcdn.ballbar.net/ettvzhonghe/playlist-15.m3u8a?t=1734017098&token=3afa1dd0359cad1060e89dd3f9df557e
+EYE TV 旅遊,http://bstvcdn.ballbar.net/eyetvtravel_twn/playlist-15.m3u8a?t=1734017104&token=e96bdeb84838e943cce80180f8a35846
+EYE TV 戲劇,http://bstvcdn.ballbar.net/eyetvxiju_twn/playlist-15.m3u8a?t=1734017105&token=e83e69b52c353f8e5984209821992698
+年代新聞,http://bstvcdn.ballbar.net/niandainews_twn/playlist-15.m3u8a?t=1734017109&token=9a78a034799f07d469abdda17cdcd700
+緯來日本,http://bstvcdn.ballbar.net/videolandjapan/playlist-15.m3u8a?t=1734017123&token=ce81bfd7067049fe641ea91e9fc5cdce
+緯來戲劇,http://bstvcdn.ballbar.net/videolandtv/playlist-15.m3u8a?t=1734017129&token=3759bc2fb1baec72fd38f4bb4abc2048
+緯來育樂,http://bstvcdn.ballbar.net/videolandmax/playlist-15.m3u8a?t=1734017132&token=0a8941877b8397398c9438d18a924335
+緯來綜合,http://bstvcdn.ballbar.net/videolandzong/playlist-15.m3u8a?t=1734017134&token=ad06bca4f1f5460a6ad8c45a8200a877
+壹新聞,http://bstvcdn.ballbar.net/yinews/playlist-15.m3u8a?t=1734017139&token=737a71be7b80ad061fdde02798a9ad9a
+東森洋片,http://bstvcdn.ballbar.net/ettvwestern/playlist-15.m3u8a?t=1734017145&token=4c92d4c9e4c448195828e2752346222c
+三立台灣台,http://bstvcdn.ballbar.net/sanlitaiwan/playlist-15.m3u8a?t=1734017150&token=cfc3db073ffc588b6a20aa6e3e415476
