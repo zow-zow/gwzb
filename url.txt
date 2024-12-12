@@ -1,29 +1,30 @@
-开始更新 2024-12-12 14:32:25
-HOY 78,http://bstvcdn.ballbar.net/hoycaijing_twn/playlist-15.m3u8a?t=1733985150&token=e637e87936193072becf158dbd506609
-翡翠台,http://bstvcdn.ballbar.net/jade_twn/playlist-15.m3u8a?t=1733985151&token=21966b4e81328163d4b05ef0427a8299
-RTHK31,http://bstvcdn.ballbar.net/rhk31_twn/playlist-15.m3u8a?t=1733985156&token=c975d8dce1d30c14948d1c30b1e0b921
-美亞電影台,http://bstvcdn.ballbar.net/meiyamovie_twn/playlist-15.m3u8a?t=1733985158&token=b48596b5a06a5367b503e4fc1e4e9ca4
-東森超視,http://bstvcdn.ballbar.net/ettvsuper/playlist-15.m3u8a?t=1733985163&token=49350e2e07579f2fca828e591c7065c1
-東森電影,http://bstvcdn.ballbar.net/ettvmovie/playlist-15.m3u8a?t=1733985164&token=2193e90f3663ec8a393a5113e338df5d
-東森戲劇,http://bstvcdn.ballbar.net/ettvdrama/playlist-15.m3u8a?t=1733985170&token=469f023dcc2dcadc6686926d86bebe36
-東森新聞,http://bstvcdn.ballbar.net/ettvnews/playlist-15.m3u8a?t=1733985171&token=da14b06920528f4dbf76ce740226c76a
-東森洋片,http://bstvcdn.ballbar.net/ettvwestern/playlist-15.m3u8a?t=1733985176&token=36336e15741270d8a0c63f9211202a09
-東森綜合,http://bstvcdn.ballbar.net/ettvzhonghe/playlist-15.m3u8a?t=1733985176&token=36336e15741270d8a0c63f9211202a09
-ELTA體育1台,http://bstvcdn.ballbar.net/eltasport1_twn/playlist-15.m3u8a?t=1733985181&token=1ab4e2c17ce27fc999de59f5eeaaa13c
-EYE TV 旅遊,http://bstvcdn.ballbar.net/eyetvtravel_twn/playlist-15.m3u8a?t=1733985182&token=bf7b225131a1dce96788180836dd3304
-EYE TV 戲劇,http://bstvcdn.ballbar.net/eyetvxiju_twn/playlist-15.m3u8a?t=1733985187&token=56241e06c1c061fd26a201c89816115c
-HBO HD,http://bstvcdn.ballbar.net/hbohd_twn/playlist-15.m3u8a?t=1733985187&token=56241e06c1c061fd26a201c89816115c
-天映頻道,http://bstvcdn.ballbar.net/Celestial/playlist-15.m3u8a?t=1733985191&token=c1d4b320d532028a567b068be7f98dc9
-年代新聞,http://bstvcdn.ballbar.net/niandainews_twn/playlist-15.m3u8a?t=1733985192&token=67aaeee43447c1169e59716ed3e673bf
-緯來電影,http://bstvcdn.ballbar.net/videolandmovie/playlist-15.m3u8a?t=1733985197&token=58199a787511701303246ef918d0b3af
-緯來日本,http://bstvcdn.ballbar.net/videolandjapan/playlist-15.m3u8a?t=1733985199&token=51bb15fc08bd50c03c61e585becc7afc
-緯來體育,http://bstvcdn.ballbar.net/videolandsport/playlist-15.m3u8a?t=1733985202&token=8c9abce6d087faca8b68c91a9575d7f1
-緯來戲劇,http://bstvcdn.ballbar.net/videolandtv/playlist-15.m3u8a?t=1733985205&token=f8bb75828092fbb8db24f93f9313ce52
-緯來育樂,http://bstvcdn.ballbar.net/videolandmax/playlist-15.m3u8a?t=1733985211&token=bff7d7e4472b9ba165896c55c1dbd5b7
-緯來綜合,http://bstvcdn.ballbar.net/videolandzong/playlist-15.m3u8a?t=1733985215&token=5082f4d09866cd32c327d08c82e2d9e9
-壹新聞,http://bstvcdn.ballbar.net/yinews/playlist-15.m3u8a?t=1733985221&token=485237c7fd7545dd304ed01438039109
-東森洋片,http://bstvcdn.ballbar.net/ettvwestern/playlist-15.m3u8a?t=1733985226&token=30c8bc7b03aa86a70a35fdc0279a7fda
-三立台灣台,http://bstvcdn.ballbar.net/sanlitaiwan/playlist-15.m3u8a?t=1733985232&token=ac76d8668107e4b0a58779400d4b6e04
-中天新聞,http://bstvcdn.ballbar.net/ctinews/playlist-15.m3u8a?t=1733985236&token=5d66242b8938967eeaf1f29cc7002e0a
-三立戲劇台,http://bstvcdn.ballbar.net/sanlixiju_twn/playlist-15.m3u8a?t=1733985239&token=5736cdb23476b618314d5913973d4267
-三立綜合台,http://bstvcdn.ballbar.net/sanlizhonghe/playlist-15.m3u8a?t=1733985243&token=45f4584334a5afd45c5b08e18824b3f6
+开始更新 2024-12-12 15:22:19
+HOY 78,http://bstvcdn.ballbar.net/hoycaijing_twn/playlist-15.m3u8a?t=1733988144&token=167f11f6bf10f904b7ebb25d9c24853b
+翡翠台,http://bstvcdn.ballbar.net/jade_twn/playlist-15.m3u8a?t=1733988145&token=472ee5206a0dc0bac778440ded5dd001
+美亞電影台,http://bstvcdn.ballbar.net/meiyamovie_twn/playlist-15.m3u8a?t=1733988150&token=a15b2d17ba6e093aa60fae71dbb54af4
+RTHK31,http://bstvcdn.ballbar.net/rhk31_twn/playlist-15.m3u8a?t=1733988151&token=93424e7589a4acd55467adcbeb4c8bfc
+東森電影,http://bstvcdn.ballbar.net/ettvmovie/playlist-15.m3u8a?t=1733988157&token=d15df804da44da12c2ce832d3d1be0f3
+東森超視,http://bstvcdn.ballbar.net/ettvsuper/playlist-15.m3u8a?t=1733988157&token=d15df804da44da12c2ce832d3d1be0f3
+東森新聞,http://bstvcdn.ballbar.net/ettvnews/playlist-15.m3u8a?t=1733988162&token=32fdd8544610a9dc8c5bfbffa0f7dd82
+東森戲劇,http://bstvcdn.ballbar.net/ettvdrama/playlist-15.m3u8a?t=1733988163&token=c5aaffc2a171539f0dbe9349a80c9118
+東森綜合,http://bstvcdn.ballbar.net/ettvzhonghe/playlist-15.m3u8a?t=1733988169&token=65d8c47c7c16ae3f99bcecabfcbcb6d6
+東森洋片,http://bstvcdn.ballbar.net/ettvwestern/playlist-15.m3u8a?t=1733988168&token=af2c7baeefd24ea7a7a65197ac221c6b
+ELTA體育1台,http://bstvcdn.ballbar.net/eltasport1_twn/playlist-15.m3u8a?t=1733988173&token=77625c407615ef7c1ba29a99b6730b88
+EYE TV 旅遊,http://bstvcdn.ballbar.net/eyetvtravel_twn/playlist-15.m3u8a?t=1733988174&token=2283ca884d59bf58ed505ef00b9315ca
+EYE TV 戲劇,http://bstvcdn.ballbar.net/eyetvxiju_twn/playlist-15.m3u8a?t=1733988179&token=d6e3930b03f6e7caeea4eaac5a34cf65
+HBO HD,http://bstvcdn.ballbar.net/hbohd_twn/playlist-15.m3u8a?t=1733988179&token=d6e3930b03f6e7caeea4eaac5a34cf65
+天映頻道,http://bstvcdn.ballbar.net/Celestial/playlist-15.m3u8a?t=1733988183&token=d56c16e296fa57da4c41633847c6a572
+年代新聞,http://bstvcdn.ballbar.net/niandainews_twn/playlist-15.m3u8a?t=1733988183&token=d56c16e296fa57da4c41633847c6a572
+緯來電影,http://bstvcdn.ballbar.net/videolandmovie/playlist-15.m3u8a?t=1733988187&token=7d36a3bad6fe1e80984bd939575d1576
+緯來日本,http://bstvcdn.ballbar.net/videolandjapan/playlist-15.m3u8a?t=1733988188&token=347423a0d7b822ca36ec5375cec3a955
+緯來體育,http://bstvcdn.ballbar.net/videolandsport/playlist-15.m3u8a?t=1733988192&token=d7975d4394686736e25a88496501f494
+緯來戲劇,http://bstvcdn.ballbar.net/videolandtv/playlist-15.m3u8a?t=1733988192&token=d7975d4394686736e25a88496501f494
+緯來綜合,http://bstvcdn.ballbar.net/videolandzong/playlist-15.m3u8a?t=1733988197&token=eab217b12500102dae58dca77b6c486c
+緯來育樂,http://bstvcdn.ballbar.net/videolandmax/playlist-15.m3u8a?t=1733988197&token=eab217b12500102dae58dca77b6c486c
+壹新聞,http://bstvcdn.ballbar.net/yinews/playlist-15.m3u8a?t=1733988202&token=c6ad1bafe6b925dee96ef7675de1c0fb
+東森電影,http://bstvcdn.ballbar.net/ettvmovie/playlist-15.m3u8a?t=1733988203&token=33411428c3b490381062e88003a1a28f
+東森洋片,http://bstvcdn.ballbar.net/ettvwestern/playlist-15.m3u8a?t=1733988208&token=d31b527f6d8b6efde1dbf51d784563bc
+中天新聞,http://bstvcdn.ballbar.net/ctinews/playlist-15.m3u8a?t=1733988209&token=4baef7a7a8a1089c8a2d5475859188b3
+三立台灣台,http://bstvcdn.ballbar.net/sanlitaiwan/playlist-15.m3u8a?t=1733988212&token=18df28d23f4e96bd268dca0afd1d8e04
+三立戲劇台,http://bstvcdn.ballbar.net/sanlixiju_twn/playlist-15.m3u8a?t=1733988213&token=2aca0de5fc18c39ed389381610754bb8
+三立綜合台,http://bstvcdn.ballbar.net/sanlizhonghe/playlist-15.m3u8a?t=1733988217&token=45f8e825bf268d449d803abdfc06d498
