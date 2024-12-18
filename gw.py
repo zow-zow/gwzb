@@ -169,7 +169,7 @@ encrypted_content += f"开始更新 {beijing_time}\n"
     
 # 多线程处理
 if __name__ == "__main__":
-    with ThreadPoolExecutor(max_workers=5) as executor:  # 设置并发线程数
+    with ThreadPoolExecutor(max_workers=1) as executor:  # 设置并发线程数
         future_to_id = {executor.submit(process_id, id): id for id in ids}
         for future in as_completed(future_to_id):
             id = future_to_id[future]
